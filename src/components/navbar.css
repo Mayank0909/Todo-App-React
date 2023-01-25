@@ -1,0 +1,22 @@
+.navbar_div {
+	display: flex;
+	font-size: 1rem;
+	gap: 2rem;
+	justify-content: center;
+	margin-top: 2rem;
+}
+
+.navlink {
+	text-decoration: none;
+	color: black;
+	background-color: transparent;
+	border: 1px solid white;
+	padding: 0.5rem 1rem;
+}
+.navlink:hover {
+	color: black;
+	background-color: rgba(255, 255, 255, 0.458);
+	border: 0.3rem solid transparent;
+	border: 1px solid black;
+	padding: 0.5rem 1rem;
+}
